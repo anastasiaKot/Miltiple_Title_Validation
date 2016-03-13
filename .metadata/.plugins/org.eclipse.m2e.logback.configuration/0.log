@@ -1,0 +1,39 @@
+2016-03-13 11:06:05,708 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/pom.xml
+2016-03-13 11:06:06,438 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:MultipleTitleValidation:1.1 @ /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/pom.xml.
+2016-03-13 11:06:06,604 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MultipleTitleValidation/src/main/java
+2016-03-13 11:06:06,606 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MultipleTitleValidation/src/test/java
+2016-03-13 11:06:07,100 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-03-13 11:06:07,651 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:06:07,651 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:06:07,653 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:06:07,653 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:07:24,357 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation:1.1 @ /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/pom.xml.
+2016-03-13 11:07:24,679 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:24,679 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:07:24,681 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:24,681 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:07:25,896 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:25,896 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:07:25,897 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:25,897 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:07:33,217 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-03-13 11:07:58,133 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:58,133 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:07:58,135 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:07:58,135 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:08:24,243 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:08:24,243 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:08:24,243 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:08:24,244 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:08:25,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:08:25,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:08:25,264 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:08:25,264 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:09:16,246 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:09:16,246 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:09:16,247 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:09:16,247 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
+2016-03-13 11:13:35,700 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:13:35,700 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/main/resources
+2016-03-13 11:13:35,701 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 11:13:35,701 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ana.shpak/Documents/Miltiple_Title_Validation/MultipleTitleValidation/src/test/resources
